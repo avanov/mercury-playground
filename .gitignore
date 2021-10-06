@@ -1,0 +1,5 @@
+.idea/
+.local/
+
+# sphinx docs
+_build/
