@@ -26,6 +26,7 @@ let
             glibcLocales
             zlib
 
+            tree
             gnumake
             gitAndTools.pre-commit
             sphinx

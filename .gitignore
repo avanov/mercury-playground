@@ -3,3 +3,6 @@
 
 # sphinx docs
 _build/
+
+# Mercury builds
+Mercury/

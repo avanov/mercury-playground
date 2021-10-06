@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sphinx Notes'
+project = 'Mercury Notes'
 copyright = '2021, Maxim Avanov'
 author = 'Maxim Avanov'
 
